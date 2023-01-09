@@ -3,14 +3,14 @@
 # Credit Card Fraud Detection
 
 IMPLEMENTATION PART: 
-• In this module, we'll gather all of the credit card data and save it to a folder. The dataset would then be subjected to descriptive analysis. 
-• After reviewing the dataset, we must clean the data in the next phase. Both redundant values and null values in the dataset will be deleted during this cleaning step, and a new dataset will be created. 
-• The cleaned dataset will be reprocessed in this module, with the dataset being grouped by volume and transaction period.
- • The dataset will be split into two parts in this module: qualified dataset and testing dataset. The Random Forest Algorithm is used after the data has been partitioned. Finally, a confusion matrix is obtained after using the Random Forest Algorithm. Evaluation Now that the resulting data in the form of an uncertainty matrix has been obtained, it can be analyzed using a graphical representation, which provides greater precision
+- In this module, we'll gather all of the credit card data and save it to a folder. The dataset would then be subjected to descriptive analysis. 
+- After reviewing the dataset, we must clean the data in the next phase. Both redundant values and null values in the dataset will be deleted during this cleaning step, and a new dataset will be created. 
+- The cleaned dataset will be reprocessed in this module, with the dataset being grouped by volume and transaction period.
+- The dataset will be split into two parts in this module: qualified dataset and testing dataset. The Random Forest Algorithm is used after the data has been partitioned. Finally, a confusion matrix is obtained after using the Random Forest Algorithm. Evaluation Now that the resulting data in the form of an uncertainty matrix has been obtained, it can be analyzed using a graphical representation, which provides greater precision
 
 
 # FURTHER IMPROVEMENT
-1.We have observed that the dataset which we are using from Kaggle which known as “CreditCard.csv’ is imbalanced i.e. it consist of 284315 non-fraud transactions and 492 fraud transaction.
+- We have observed that the dataset which we are using from Kaggle which known as “CreditCard.csv’ is imbalanced i.e. it consist of 284315 non-fraud transactions and 492 fraud transaction.
 2.So here, we can improve the recall and precision of our model by applying sampling techniques. 
 3. There are 2 types of sampling 
 a.Under Sampling 
