@@ -25,3 +25,6 @@
 
 # DATASET USED
 [DataSet used in the project](https://drive.google.com/file/d/1XbznoHpatQuNE7Sqv4TGmB8-D5s-ydKy/view?usp=share_link).
+
+# DATA MODEL
+[Data Model of Fraud-detection-system-based-on-pattern-matching ](https://colab.research.google.com/drive/16X_goaD92pIDhbmQXW_qiqRPgix0cw5o?usp=sharing).
