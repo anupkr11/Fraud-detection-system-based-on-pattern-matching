@@ -2,7 +2,7 @@
 
 # Credit Card Fraud Detection
 
-IMPLEMENTATION PART: 
+# IMPLEMENTATION PART
 - In this module, we'll gather all of the credit card data and save it to a folder. The dataset would then be subjected to descriptive analysis. 
 - After reviewing the dataset, we must clean the data in the next phase. Both redundant values and null values in the dataset will be deleted during this cleaning step, and a new dataset will be created. 
 - The cleaned dataset will be reprocessed in this module, with the dataset being grouped by volume and transaction period.
@@ -23,5 +23,5 @@ IMPLEMENTATION PART:
 9. Now we have to divide under sampling data to all features & target. 
 10. Now split dataset to train and test datasets as before.
 
-# DataSet used 
+# DATASET USED
 [DataSet used in the project](https://drive.google.com/file/d/1XbznoHpatQuNE7Sqv4TGmB8-D5s-ydKy/view?usp=share_link).
