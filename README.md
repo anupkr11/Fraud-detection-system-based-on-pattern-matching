@@ -10,11 +10,11 @@ IMPLEMENTATION PART:
 
 
 # FURTHER IMPROVEMENT
-- We have observed that the dataset which we are using from Kaggle which known as “CreditCard.csv’ is imbalanced i.e. it consist of 284315 non-fraud transactions and 492 fraud transaction.
-2.So here, we can improve the recall and precision of our model by applying sampling techniques. 
+1. We have observed that the dataset which we are using from Kaggle which known as “CreditCard.csv’ is imbalanced i.e. it consist of 284315 non-fraud transactions and 492 fraud transaction.
+2. So here, we can improve the recall and precision of our model by applying sampling techniques. 
 3. There are 2 types of sampling 
-a.Under Sampling 
-b. Over Sampling
+  - Under Sampling 
+  - Over Sampling
 4. In the oversampling technique, samples are repeated, and the dataset size is larger than the original dataset. 
 5. In the under sampling technique, samples are not repeated, and the dataset size is less than the original dataset.
 6.We are implementing under sampling technique in our model, by choosing the no. of random samples from non-fraud transaction equals to number of fraud transaction in our dataset.
