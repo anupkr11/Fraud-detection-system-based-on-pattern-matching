@@ -22,3 +22,6 @@ IMPLEMENTATION PART:
 8.Extract all features from whole data for under sample indices only.
 9. Now we have to divide under sampling data to all features & target. 
 10. Now split dataset to train and test datasets as before.
+
+# DataSet used 
+[DataSet used in the project](https://drive.google.com/file/d/1XbznoHpatQuNE7Sqv4TGmB8-D5s-ydKy/view?usp=share_link).
